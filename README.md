@@ -1,2 +1,4 @@
 # new
-This is my first Git Repository , Author- Pratik Chapagain
+This is my first Git Repository.
+<br>
+Author- Pratik Chapagain
